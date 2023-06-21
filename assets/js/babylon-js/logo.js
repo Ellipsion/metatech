@@ -21,7 +21,7 @@ var createDefaultEngine = function () {
 var createScene = function () {
   var scene = new BABYLON.Scene(engine);
   // scene.clearColor = BABYLON.Color3.White();
-  scene.clearColor = BABYLON.Color3.Black();
+  scene.clearColor = new BABYLON.Color4(0, 0, 0, 0);
   var light = new BABYLON.HemisphericLight(
     "light1",
     new BABYLON.Vector3(1, 1, 0),
@@ -159,6 +159,7 @@ var createScene = function () {
         Math.sin((k - Date.now()) / 1000) * 0.1,
         0
       );
+      logo.rotation = new BABYLON.Vector3(0, k, 0);
     }
     k += 0.009;
 

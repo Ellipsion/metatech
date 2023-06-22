@@ -163,27 +163,23 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6" style="
-                background-image: url(./assets/images/patterns/purple-portal.jpg);
-                background-size: cover;
+                <div class="col-lg-6 vh-100">
+                    <div class=" wow fadeInRight" data-wow-delay=".4s">
+                        <div style="height: 100vh; width: 100%; display: flex; align-items: center; justify-content: center;
+                            background-image: url(./assets/images/patterns/purple-portal.jpg);
+                background-size: contain;
                 background-repeat: no-repeat;
-                padding-bottom: 50px;">
-                    <div class=" fadeInDown" data-wow-delay=".8s">
-                        <div class="banner-thumb-inner6 mt-5 bounce-animate3 fadeInDown" data-wow-delay=".9s">
-                            <img src="assets/images/slider/light.png" width="150" alt="">
-                        </div>
-
-                        <div class=" wow fadeInRight" data-wow-delay=".4s">
-                            <div
-                                style="height: 600px; width: 90%; display: flex; align-items: center; justify-content: center; padding: 10px;">
-                                <canvas style="outline: none; border-radius: 30% 10px 10px 10px;"
-                                    class="w-75 h-75 mt-5 fadeInDown" id="logoRenderCanvas"></canvas>
-                            </div>
+                background-position: center;
+                            ">
+                            <canvas
+                                style="outline: none; background-color: transparent; width: 100%; height: 50%; margin-right: 15px;"
+                                class="fadeInDown" id="logoRenderCanvas"></canvas>
                         </div>
                     </div>
                 </div>
-
             </div>
+
+        </div>
         </div>
     </section>
     <!--==================================================-->
@@ -263,9 +259,9 @@
             <div class=" pt-100 pb-70">
                 <div class="container">
 
-                    <div class="row">
+                    <div class="row bounce-animate3">
                         <div class="col-lg-2 col-md-6 col-sm-12 ">
-                            <div class="dreamit-author-box wow fadeInUp bounce-animate3" data-wow-delay=".5s">
+                            <div class="dreamit-author-box wow fadeInUp " data-wow-delay=".5s">
                                 <div class="author-box-inner mx-2">
                                     <div class="text-center">
                                         <img src="assets/images/icons/shield.png" width="100" alt="">
@@ -295,7 +291,7 @@
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-6 col-sm-12 ">
-                            <div class="dreamit-author-box wow fadeInUp bounce-animate2" data-wow-delay=".5s">
+                            <div class="dreamit-author-box wow fadeInUp" data-wow-delay=".5s">
                                 <div class="author-box-inner mx-2">
                                     <div class="text-center">
                                         <img src="assets/images/icons/next-button.png" width="100" alt="">
@@ -324,7 +320,7 @@
                             </div>
                         </div>
                         <div class="col-lg-2 col-md-6 col-sm-12  ">
-                            <div class="dreamit-author-box wow fadeInUp bounce-animate3" data-wow-delay=".5s">
+                            <div class="dreamit-author-box wow fadeInUp " data-wow-delay=".5s">
                                 <div class="author-box-inner mx-2">
                                     <div class="text-center">
                                         <img src="assets/images/icons/technology.png" width="100" alt="">
@@ -427,22 +423,17 @@
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-lg-2"></div>
+                <div class="col-lg-8 col-md-8 col-sm-12 px-3 flex justify-content-center">
+                    <canvas id="myChart" class="bounce-animate3 mt-2" style="max-height: 400px; margin: 10px;"></canvas>
 
-            <div>
-                <div class="container">
 
-                    <div class="row">
-                        <div class="col-lg-2"></div>
-                        <div class="col-lg-4 col-md-6 col-sm-12">
-                            <img src="assets/images/charts/chart2.png" alt="">
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 mx-5">
-                            <img src="assets/images/charts/chart-stats.jpg" width="400" alt="">
-                        </div>
-
-                    </div>
                 </div>
+
+
             </div>
+
         </div>
     </div>
     <!--==================================================-->
@@ -457,7 +448,7 @@
             <div class="row ">
                 <div class="col-lg-6 col-md-6 col-sm-12 bounce-animate mt-5 pt-5">
                     <img src="assets/images/icons/mail.png" alt="">
-                    <h2>help@metatechcoin.org</h2>
+                    <h3>help@metatechcoin.org</h3>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="blog-respond">
@@ -550,7 +541,9 @@
     <!--==================================================-->
     <!-- Start scroll Area -->
     <!--==================================================-->
-
+    <!-- chartjs -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js"></script>
+    <script src="./pieChart.js"></script>
     <!-- jquery js -->
     <script src="assets/js/vendor/jquery-3.2.1.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"

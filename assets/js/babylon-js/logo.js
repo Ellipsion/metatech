@@ -71,7 +71,7 @@ var createScene = function () {
   var pbr2 = new BABYLON.PBRMaterial("pbr2", scene);
   // sphere.material = pbr;
   // pbr2.reflectionTexture = BABYLON.CubeTexture.CreateFromPrefilteredData("/textures/environment.dds", scene);
-  pbr2.reflectionTexture = hdrTexture;
+  // pbr2.reflectionTexture = hdrTexture;
 
   pbr2.metallic = 0.3;
   pbr2.roughness = 0.6;

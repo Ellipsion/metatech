@@ -59,11 +59,11 @@ var createScene = function () {
 
   var pbr = new BABYLON.PBRMaterial("pbr", scene);
   // sphere.material = pbr;
-  const hdrTexture = BABYLON.CubeTexture.CreateFromPrefilteredData(
-    "assets/textures/hdr_texture.hdr",
-    scene
-  );
-  pbr.reflectionTexture = hdrTexture;
+  // const hdrTexture = BABYLON.CubeTexture.CreateFromPrefilteredData(
+  //   "assets/textures/hdr_texture.hdr",
+  //   scene
+  // );
+  // pbr.reflectionTexture = hdrTexture;
   pbr.metallic = 0.0;
   pbr.roughness = 0;
 
@@ -71,7 +71,7 @@ var createScene = function () {
   var pbr2 = new BABYLON.PBRMaterial("pbr2", scene);
   // sphere.material = pbr;
   // pbr2.reflectionTexture = BABYLON.CubeTexture.CreateFromPrefilteredData("/textures/environment.dds", scene);
-  pbr2.reflectionTexture = hdrTexture;
+  // pbr2.reflectionTexture = hdrTexture;
 
   pbr2.metallic = 0.3;
   pbr2.roughness = 0.6;

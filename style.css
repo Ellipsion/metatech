@@ -438,6 +438,11 @@ nav.cryptobit_menu ul li:hover i {
     line-height: 68px;
 }
 
+.banner-content h1 {
+    font-size: 90px;
+    font-weight: 700;
+}
+
 .banner-content h1 span {
     background: linear-gradient(to right, #518EFF, #518EFF, 50%, #B725FF 75%);
     -webkit-text-fill-color: transparent;
@@ -446,7 +451,7 @@ nav.cryptobit_menu ul li:hover i {
 }
 
 .version3 .banner-content h2 {
-    font-size: 50px;
+    font-size: 70px;
 }
 
 .version3 .banner-content h2 span {
@@ -2696,7 +2701,7 @@ p.nft-text {
     content: "";
     z-index: -3;
     height: 100%;
-    margin: 0 auto;
+    margin: 0;
     position: absolute;
     transition: 500ms all ease;
     background: linear-gradient(10deg, #518EFF, #B725FF) border-box;
@@ -2713,15 +2718,18 @@ p.nft-text {
     position: absolute;
     background-color: #11071D;
     border-radius: 8px;
+
 }
 
 .sell-collect-box:hover:before {
     width: 100%;
+
 }
 
 .sell-collect-box-inner {
     position: relative;
     z-index: 1;
+
 }
 
 .sell-collect-box-inner::before {
@@ -2732,7 +2740,8 @@ p.nft-text {
     height: 150px;
     width: 150px;
     right: 0;
-    margin: auto;
+    /* margin: auto; */
+
     z-index: -1;
     box-shadow: inset 0 0 31px 25px #B725FF;
     border-radius: 50%;
@@ -6728,3 +6737,141 @@ div#particles .row.version3 {
     background: #020213;
     margin-bottom: 0;
 }
+
+/* ======================roadmap section start========================== */
+.roadmap-section {
+    background-color: #261986;
+    padding: 150px 0px 30px 0px;
+}
+
+.roadmap-section .roadmap-title h5 {
+    font-size: 16px;
+    color: #08bcf0;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+
+.roadmap-section .roadmap-title h2 {
+    font-size: 35px;
+    margin: 20px 0px 20px 0px;
+}
+
+.roadmap-section .roadmap-title p {
+    margin-bottom: 55px;
+}
+
+.roadmap-section .roadmap-content {
+    margin-top: 50px;
+}
+
+.roadmap-section .roadmap-content .map-box {
+    margin-bottom: 100px;
+    text-align: center;
+    position: relative;
+}
+
+.roadmap-section .roadmap-content .map-box::after {
+    position: absolute;
+    content: "";
+    height: 18px;
+    width: 18px;
+    border: 2px solid #fff;
+    background-color: #08bcf0;
+    border-radius: 20px;
+    left: 47%;
+    top: 58px;
+    /* display: none; */
+}
+
+.roadmap-section .roadmap-content .map-box::before {
+    position: absolute;
+    content: "";
+    height: 1px;
+    width: 224px;
+    border: 1px dashed #4d538a;
+    left: 0;
+    top: 65px;
+}
+
+
+.roadmap-section .roadmap-content .map-box h4 {
+    font-size: 16px;
+    background: linear-gradient(90deg, rgba(128, 84, 253, 1) 0%, rgba(162, 41, 245, 1) 100%);
+    padding: 10px 18px;
+    margin-bottom: 105px;
+    display: inline-block;
+    border-radius: 5px;
+    font-weight: 400;
+}
+
+.roadmap-section .roadmap-content .map-box .test {
+    background-color: #0b1068;
+    border: 1px solid #9b31f7;
+    padding: 20px 10px 10px 10px;
+    border-radius: 4px;
+    position: relative;
+    width: 100%;
+}
+
+.roadmap-section .roadmap-content .map-box:hover .hover-box {
+    opacity: 1;
+    transition: .5s;
+}
+
+.roadmap-section .roadmap-content .map-box .hover-box {
+    position: absolute;
+    left: 0;
+    top: 145px;
+    width: 100%;
+    opacity: 0;
+    transition: .5s;
+
+}
+
+.roadmap-section .roadmap-content .map-box .hover-box .up {
+    background-color: #08bcf0;
+    text-align: center;
+    border-radius: 4px 4px 0px 0px;
+}
+
+.roadmap-section .roadmap-content .map-box .hover-box .up p {
+    margin: 0;
+    padding: 20px 0px;
+    font-size: 17px;
+    color: #fff;
+}
+
+.roadmap-section .roadmap-content .map-box .hover-box .down {
+    background: linear-gradient(90deg, rgba(128, 84, 253, 1) 0%, rgba(162, 41, 245, 1) 100%);
+    text-align: center;
+    border-radius: 0px 0px 4px 4px;
+}
+
+.roadmap-section .roadmap-content .map-box .hover-box .down a {
+    margin: 0;
+    color: #fff;
+    padding: 16px 0px;
+}
+
+.roadmap-section .roadmap-content .test::before {
+    position: absolute;
+    content: "";
+    height: 70px;
+    width: 1px;
+    border: 1px dashed #4d538a;
+    left: 50%;
+    top: -70px;
+}
+
+.roadmap-section .roadmap-content .map-box .test p {
+    font-size: 17px;
+}
+
+.text-glow {
+    background: linear-gradient(to right, #518EFF, #518EFF, 50%, #B725FF 75%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+/* ======================roadmap section end========================== */

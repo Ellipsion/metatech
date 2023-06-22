@@ -60,7 +60,7 @@ var createScene = function () {
   var pbr = new BABYLON.PBRMaterial("pbr", scene);
   // sphere.material = pbr;
   const hdrTexture = BABYLON.CubeTexture.CreateFromPrefilteredData(
-    "./textures/hdr_texture.hdr",
+    "assets/textures/hdr_texture.hdr",
     scene
   );
   pbr.reflectionTexture = hdrTexture;
@@ -81,7 +81,7 @@ var createScene = function () {
   var logo;
   BABYLON.SceneLoader.ImportMesh(
     "",
-    "https://cdn.jsdelivr.net/gh/Ellipsion/3d-particle/public/models/",
+    "/assets/models/",
     "groupedlogo.glb",
     scene,
     function (meshes) {

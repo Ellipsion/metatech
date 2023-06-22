@@ -81,7 +81,7 @@ var createScene = function () {
   var logo;
   BABYLON.SceneLoader.ImportMesh(
     "",
-    "/assets/models/",
+    "assets/models/",
     "groupedlogo.glb",
     scene,
     function (meshes) {

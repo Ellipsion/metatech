@@ -121,7 +121,7 @@ nav.cryptobit_menu ul li span i {
     display: inline-block;
     color: #fff;
     padding: 12px 30px;
-    background: linear-gradient(103.16deg, #5379FF 33.16%, #B725FF 74.17%);
+    background: linear-gradient(103.16deg, #5379FF 33.16%, #3BA4A6 74.17%);
     border-radius: 4px;
     transition: .5s;
     position: relative;
@@ -139,7 +139,7 @@ nav.cryptobit_menu ul li span i {
     right: 0;
     bottom: 0;
     border-radius: 4px;
-    background: #B725FF;
+    background: #3BA4A6;
     transform: scale(0);
     transition: .5s;
 }
@@ -238,7 +238,7 @@ nav.cryptobit_menu ul li span i {
     right: 0;
     bottom: 0;
     border-radius: 30px;
-    background: #B725FF;
+    background: #3BA4A6;
     transform: scale(0);
     transition: .5s;
 }
@@ -260,7 +260,7 @@ nav.cryptobit_menu ul li:hover i {
 }
 
 .cryptobit_menu>ul>li>a:hover {
-    color: #B725F2;
+    color: #3BA4A6;
 }
 
 /*sticky*/
@@ -444,7 +444,7 @@ nav.cryptobit_menu ul li:hover i {
 }
 
 .banner-content h1 span {
-    background: linear-gradient(to right, #518EFF, #518EFF, 50%, #B725FF 75%);
+    background: linear-gradient(to right, #518EFF, #518EFF, 50%, #3BA4A6 75%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     font-weight: 700;
@@ -455,7 +455,7 @@ nav.cryptobit_menu ul li:hover i {
 }
 
 .version3 .banner-content h2 span {
-    background: linear-gradient(to right, #518EFF, #518EFF, 50%, #B725FF 75%);
+    background: linear-gradient(to right, #518EFF, #518EFF, 50%, #3BA4A6 75%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     font-weight: 700;
@@ -473,7 +473,7 @@ nav.cryptobit_menu ul li:hover i {
     text-decoration: none;
     color: #fff;
     padding: 14px 38px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     border-radius: 5px;
     font-weight: 500;
     position: relative;
@@ -489,7 +489,7 @@ nav.cryptobit_menu ul li:hover i {
     right: 0;
     bottom: 0;
     border-radius: 5px;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     transform: scale(0);
     transition: .5s;
 }
@@ -501,7 +501,7 @@ nav.cryptobit_menu ul li:hover i {
 
 a.default-btn {
     background: transparent;
-    border: 1px solid #B725FF;
+    border: 1px solid #3BA4A6;
     margin-left: 18px;
 }
 
@@ -514,7 +514,7 @@ a.default-btn i {
 a.default-btn {
     border-width: 1px;
     border-style: solid;
-    border-image: linear-gradient(to right, #518EFF, #B725FF) 1;
+    border-image: linear-gradient(to right, #518EFF, #3BA4A6) 1;
     background: transparent;
     height: 56px;
     width: 170px;
@@ -538,7 +538,7 @@ a.default-btn:before {
     right: 0;
     bottom: 0;
     border-radius: 0px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     transform: scale(0);
     transition: .5s;
 }
@@ -595,7 +595,7 @@ a.nft-like i {
 .nft-item-bottom .nft-thumb img {
     width: 100%;
     border-radius: 150px 15px 0 0;
-    border: 2px solid #B725FF;
+    border: 2px solid #3BA4A6;
 }
 
 .nft-item-bottom .nft-content {
@@ -610,7 +610,7 @@ a.nft-like i {
 }
 
 .nft-item.light-version .price-like a:hover {
-    color: #B725FF;
+    color: #3BA4A6;
 }
 
 /*banner style two*/
@@ -628,7 +628,7 @@ a.nft-like i {
 
 .version2 a.default-btn {
     background: transparent;
-    border: 1px solid #B725FF;
+    border: 1px solid #3BA4A6;
     margin-left: 18px;
     color: #120F28;
     text-transform: uppercase;
@@ -813,7 +813,7 @@ a.nft-like i {
     height: 56px;
     border-radius: 50px;
     border: 2px solid transparent;
-    background: linear-gradient(45deg, #518EFF, #B725FF) border-box;
+    background: linear-gradient(45deg, #518EFF, #3BA4A6) border-box;
     -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
     -webkit-mask-composite: destination-out;
 }
@@ -826,7 +826,7 @@ a.nft-like i {
     top: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(to right, #518EFF 15%, #B725FF 81%);
+    background: linear-gradient(to right, #518EFF 15%, #3BA4A6 81%);
     transform: scale(0);
     transition: .5s;
     border-radius: 50px;
@@ -860,7 +860,7 @@ a.nft-like i {
     text-transform: capitalize;
     position: relative;
     z-index: 1;
-    background: linear-gradient(to right, #518EFF, #518EFF, 9%, #B725FF 12%);
+    background: linear-gradient(to right, #518EFF, #518EFF, 9%, #3BA4A6 12%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     font-weight: 500;
@@ -912,7 +912,7 @@ a.nft-like i {
 
 /*feature style two*/
 .style-two.feature-cryptobit-area {
-    background: url(assets/images/resource/feature-bg.jpg);
+    background: url(assets/images/resource/feature-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -955,7 +955,7 @@ a.nft-like i {
 .feature-button a {
     padding: 16px 35px;
     font-size: 18px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     display: inline-block;
     color: #fff;
     border-radius: 5px;
@@ -972,7 +972,7 @@ a.nft-like i {
     width: 0;
     top: 0;
     height: 100%;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     border-radius: 5px;
     transition: .5s;
 }
@@ -1035,7 +1035,7 @@ a.nft-like i {
     text-transform: capitalize;
     position: relative;
     z-index: 1;
-    background: linear-gradient(to right, #518EFF, #518EFF, 9%, #B725FF 12%);
+    background: linear-gradient(to right, #518EFF, #518EFF, 9%, #3BA4A6 12%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     font-weight: 500;
@@ -1091,7 +1091,7 @@ a.nft-like i {
     padding: 13px 30px;
     font-weight: 500;
     display: inline-block;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     color: #fff;
     border-radius: 5px;
     margin-top: 35px;
@@ -1108,7 +1108,7 @@ a.nft-like i {
     right: 0;
     bottom: 0;
     border-radius: 5px;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     transform: scale(0);
     transition: .5s;
 }
@@ -1254,7 +1254,7 @@ a.nft-like i {
     right: 0;
     bottom: 0;
     border-radius: 30px;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     transform: scale(0);
     transition: .5s;
 }
@@ -1315,7 +1315,7 @@ a.nft-like i {
     text-decoration: none;
     color: #fff;
     padding: 4px 15px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     border-radius: 30px;
     margin-top: 2px;
     position: relative;
@@ -1331,7 +1331,7 @@ a.nft-like i {
     right: 0;
     bottom: 0;
     border-radius: 30px;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     transform: scale(0);
     transition: .5s;
 }
@@ -1374,7 +1374,7 @@ a.nft-like i {
 }
 
 .owl-dot {
-    border: 1px solid #B725FF !important;
+    border: 1px solid #3BA4A6 !important;
     width: 14px;
     height: 14px;
     border-radius: 15px;
@@ -1387,7 +1387,7 @@ button.owl-dot.active {
     display: inline-block;
     width: 15px;
     height: 15px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 73%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 73%);
     border-radius: 30px;
     border: 0 !important;
 }
@@ -1540,7 +1540,7 @@ button.owl-dot.active {
 
 /*section title*/
 .section2.dreamit-section-title h4 {
-    background: linear-gradient(to right, #518EFF, 51%, #B725FF 60%);
+    background: linear-gradient(to right, #518EFF, 51%, #3BA4A6 60%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     animation: 1s 2s fadeInRight both;
@@ -1561,8 +1561,12 @@ button.owl-dot.active {
     padding: 15px 0 0px;
 }
 
+.nft-shape img {
+    width: 100px;
+}
+
 .section2.dreamit-section-title span {
-    background: linear-gradient(to right, #518EFF, #518EFF, 50%, #B725FF 75%);
+    background: linear-gradient(to right, #518EFF, #518EFF, 50%, #3BA4A6 75%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     font-weight: 700;
@@ -1586,7 +1590,7 @@ button.owl-dot.active {
     bottom: 0;
     border-radius: 8px;
     border: 2px solid transparent;
-    background: linear-gradient(10deg, #518EFF, #B725FF) border-box;
+    background: linear-gradient(10deg, #518EFF, #3BA4A6) border-box;
     -webkit-mask: linear-gradient(#fff 0 0) padding-box,
         linear-gradient(#fff 0 0);
     -webkit-mask-composite: destination-out;
@@ -1733,7 +1737,7 @@ div#countdown {
     text-transform: uppercase;
     position: relative;
     z-index: 1;
-    background: linear-gradient(to right, #518EFF, #518EFF, 6%, #B725FF 10%);
+    background: linear-gradient(to right, #518EFF, #518EFF, 6%, #3BA4A6 10%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
@@ -1746,7 +1750,7 @@ div#countdown {
     top: 10px;
     width: 60px;
     height: 1px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
 }
 
 .author.dreamit-section-title h4:before {
@@ -1757,7 +1761,7 @@ div#countdown {
     top: 10px;
     width: 60px;
     height: 1px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
 }
 
 /*auction*/
@@ -1788,7 +1792,7 @@ div#countdown {
     width: 18px;
     height: 18px;
     border-radius: 50%;
-    background: #B725FF;
+    background: #3BA4A6;
 }
 
 .auction.dreamit-section-title h1:after {
@@ -1813,7 +1817,7 @@ div#countdown {
     text-transform: uppercase;
     position: relative;
     z-index: 1;
-    background: linear-gradient(to right, #518EFF, 50%, #B725FF 51%);
+    background: linear-gradient(to right, #518EFF, 50%, #3BA4A6 51%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     padding: 0 0 6px;
@@ -1829,7 +1833,7 @@ div#countdown {
     margin: auto;
     width: 62px;
     height: 1px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
 }
 
 .auction.upper.dreamit-section-title h4:after {
@@ -1842,7 +1846,7 @@ div#countdown {
     margin: auto;
     width: 62px;
     height: 1px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
 }
 
 .auction.upper.dreamit-section-title h1:before {
@@ -1856,7 +1860,7 @@ div#countdown {
     width: 18px;
     height: 18px;
     border-radius: 50%;
-    background: #B725FF;
+    background: #3BA4A6;
 }
 
 .auction.upper.dreamit-section-title h1:after {
@@ -1885,7 +1889,7 @@ div#countdown {
     text-transform: uppercase;
     position: relative;
     z-index: 1;
-    background: linear-gradient(to right, #518EFF, 50%, #B725FF 52%);
+    background: linear-gradient(to right, #518EFF, 50%, #3BA4A6 52%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     padding: 0 0 6px;
@@ -1901,7 +1905,7 @@ div#countdown {
     margin: auto;
     width: 62px;
     height: 1px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
 }
 
 .faq.dreamit-section-title h4:after {
@@ -1914,7 +1918,7 @@ div#countdown {
     margin: auto;
     width: 62px;
     height: 1px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
 }
 
 .dreamit-section-title p {
@@ -1936,7 +1940,7 @@ div#countdown {
     text-transform: uppercase;
     position: relative;
     z-index: 1;
-    background: linear-gradient(to right, #518EFF, 3%, #B725FF 5%);
+    background: linear-gradient(to right, #518EFF, 3%, #3BA4A6 5%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
@@ -1958,7 +1962,7 @@ div#countdown {
     text-transform: capitalize;
     position: relative;
     z-index: 1;
-    background: linear-gradient(to right, #518EFF, #518EFF, 49%, #B725FF 51%);
+    background: linear-gradient(to right, #518EFF, #518EFF, 49%, #3BA4A6 51%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     font-weight: 500;
@@ -1983,7 +1987,7 @@ div#countdown {
     text-transform: capitalize;
     position: relative;
     z-index: 1;
-    background: linear-gradient(to right, #518EFF, #518EFF, 10%, #B725FF 20%);
+    background: linear-gradient(to right, #518EFF, #518EFF, 10%, #3BA4A6 20%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     font-weight: 500;
@@ -2020,7 +2024,7 @@ div#countdown {
     height: 12px;
     width: 12px;
     border-radius: 50%;
-    background: linear-gradient(to right, #518EFF, #518EFF, 46%, #B725FF 65%);
+    background: linear-gradient(to right, #518EFF, #518EFF, 46%, #3BA4A6 65%);
     animation-duration: 3s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
@@ -2140,7 +2144,7 @@ button.owl-next i {
     width: 40px;
     line-height: 38px;
     text-align: center;
-    background: linear-gradient(to right, #B725FF 9%, #518EFF 44%);
+    background: linear-gradient(to right, #3BA4A6 9%, #518EFF 44%);
     border-radius: 50%;
     color: #E6E6E8;
     font-weight: 600;
@@ -2200,7 +2204,7 @@ button.owl-next i {
     right: 0;
     top: 0;
     bottom: 0;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     border-radius: 30px;
     transform: scale(0);
     transition: .5s;
@@ -2274,7 +2278,7 @@ button.owl-next i {
 }
 
 .explore-right-title h6:hover {
-    color: #B725FF;
+    color: #3BA4A6;
 }
 
 /*explore button*/
@@ -2291,7 +2295,7 @@ button.owl-next i {
 .explore-button a i {
     display: inline-block;
     font-size: 16px;
-    color: #B725FF;
+    color: #3BA4A6;
     margin-left: 5px;
 }
 
@@ -2303,7 +2307,7 @@ button.owl-next i {
     color: #fff;
     border-radius: 5px;
     padding: 14px 38px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     margin-top: 32px;
     position: relative;
     z-index: 1;
@@ -2317,7 +2321,7 @@ button.owl-next i {
     width: 0;
     top: 0;
     height: 100%;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     border-radius: 5px;
     transition: .5s;
 }
@@ -2362,7 +2366,7 @@ button.owl-next i {
 }
 
 .explore-button-2 a:hover {
-    color: #B725FF;
+    color: #3BA4A6;
 }
 
 .dreamit-explore-box:hover .explore-button-2 a {
@@ -2444,7 +2448,7 @@ button.owl-next i {
     right: 0;
     top: 0;
     bottom: 0;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     border-radius: 30px;
     transform: scale(0);
     transition: .5s;
@@ -2517,7 +2521,7 @@ button.owl-next i {
     margin: 0 auto;
     position: absolute;
     transition: 500ms all ease;
-    background: linear-gradient(10deg, #518EFF, #B725FF) border-box;
+    background: linear-gradient(10deg, #518EFF, #3BA4A6) border-box;
     border-radius: 8px;
 }
 
@@ -2660,7 +2664,7 @@ p.nft-text {
     border-radius: 30px;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     transform: scale(0);
     transition: .5s;
 }
@@ -2704,7 +2708,7 @@ p.nft-text {
     margin: 0;
     position: absolute;
     transition: 500ms all ease;
-    background: linear-gradient(10deg, #518EFF, #B725FF) border-box;
+    background: linear-gradient(10deg, #518EFF, #3BA4A6) border-box;
     border-radius: 8px;
 }
 
@@ -2743,7 +2747,7 @@ p.nft-text {
     /* margin: auto; */
 
     z-index: -1;
-    box-shadow: inset 0 0 31px 25px #B725FF;
+    box-shadow: inset 0 0 31px 25px #3BA4A6;
     border-radius: 50%;
     opacity: .2;
 }
@@ -2877,7 +2881,7 @@ p.nft-text {
 }
 
 .sale-button-2 a span {
-    color: #B725FF;
+    color: #3BA4A6;
 }
 
 .dreamit-sale-item-box:hover .sale-item-content {
@@ -3107,7 +3111,7 @@ p.nft-text {
     text-transform: capitalize;
     position: relative;
     z-index: 1;
-    background: linear-gradient(to right, #518EFF, #518EFF, 4%, #B725FF 12%);
+    background: linear-gradient(to right, #518EFF, #518EFF, 4%, #3BA4A6 12%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     font-weight: 500;
@@ -3137,7 +3141,7 @@ p.nft-text {
   cryptobit footer middle Css
 =====================================*/
 .footer-middle {
-    background: url(assets/images/resource/footer.jpg);
+    background: url(assets/images/resource/footer.png);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -3172,7 +3176,7 @@ p.nft-text {
     right: 0;
     top: 0;
     bottom: 0;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 82%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 82%);
     border-radius: 50%;
     transform: scale(0);
     transition: .5s;
@@ -3202,7 +3206,7 @@ p.nft-text {
     top: 16px;
     height: 1px;
     width: 54px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 73%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 73%);
 }
 
 .widget-nav-menu h4 {
@@ -3225,7 +3229,7 @@ p.nft-text {
     z-index: 1;
     padding: 0 0 8px 20px;
     font-weight: 500;
-    background: linear-gradient(to right, #B725FF 50%, #fff 50%);
+    background: linear-gradient(to right, #3BA4A6 50%, #fff 50%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     background-size: 200%, 100%;
@@ -3238,7 +3242,7 @@ p.nft-text {
     content: "";
     left: 0px;
     top: 11px;
-    border: 2px solid #B725F2;
+    border: 2px solid #3BA4A6;
     width: 10px;
     height: 10px;
     border-radius: 50%;
@@ -3277,7 +3281,7 @@ p.nft-text {
 
 /*footer style two*/
 .style-two.footer-middle {
-    background: #11071D;
+    background: #07111d;
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -3285,7 +3289,7 @@ p.nft-text {
 
 /*-- ===============//breadcome section start here \\================= */
 .breadcome-area {
-    background: url(assets/images/slider/bread-bg.jpg);
+    background: url(assets/images/slider/bread-bg.png);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -3453,7 +3457,7 @@ span.text-left {
     bottom: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     transform: scale(0);
     border-radius: 50%;
     transition: .5s;
@@ -3509,7 +3513,7 @@ span.text-left {
     bottom: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     transform: scale(0);
     border-radius: 5px;
     transition: .5s;
@@ -3534,7 +3538,7 @@ span.text-left {
     font-size: 16px;
     padding: 13px 35px;
     color: #fff;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     border-radius: 5px;
     transition: .5s;
     position: relative;
@@ -3550,7 +3554,7 @@ span.text-left {
     width: 0;
     height: 50%;
     text-align: center;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     opacity: 0;
     transition: .5s;
     border-radius: 5px 5px 0 0;
@@ -3565,7 +3569,7 @@ span.text-left {
     width: 0;
     height: 50%;
     text-align: center;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     opacity: 0;
     transition: .5s;
     border-radius: 0 0 5px 5px;
@@ -3728,7 +3732,7 @@ span.text-left {
     border-radius: 5px;
     color: #fff;
     font-size: 16px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     position: relative;
     z-index: 1;
     margin-right: 6px;
@@ -3743,7 +3747,7 @@ span.text-left {
     right: 0;
     bottom: 0;
     border-radius: 5px;
-    background: linear-gradient(to right, #B725FF 35%, #518EFF 88%);
+    background: linear-gradient(to right, #3BA4A6 35%, #518EFF 88%);
     transform: scale(0);
     transition: .5s;
 }
@@ -3773,7 +3777,7 @@ span.text-left {
     height: 36px;
     line-height: 33px;
     text-align: center;
-    background: linear-gradient(to right, #B725FF 35%, #518EFF 88%);
+    background: linear-gradient(to right, #3BA4A6 35%, #518EFF 88%);
     color: #fff;
     font-size: 22px;
     border-radius: 0 5px 5px 0px;
@@ -3791,7 +3795,7 @@ span.text-left {
     right: 0;
     bottom: 0;
     border-radius: 0 5px 5px 0px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     transform: scale(0);
     transition: .5s;
 }
@@ -3892,7 +3896,7 @@ button.dropbtn i {
 }
 
 .dropdown-content a:hover {
-    background: #B725FF;
+    background: #3BA4A6;
 }
 
 .dropdown:hover .dropdown-content {
@@ -3941,7 +3945,7 @@ button.dropbtn i {
     bottom: 0;
     width: auto;
     border-radius: 5px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     transform: scale(0);
     transition: .5s;
 }
@@ -4110,7 +4114,7 @@ button.dropbtn i {
     font-size: 16px;
     color: #fff;
     padding: 3px 22px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     border-radius: 30px;
     position: relative;
     z-index: 1;
@@ -4125,7 +4129,7 @@ button.dropbtn i {
     right: 0;
     bottom: 0;
     border-radius: 30px;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     transform: scale(0);
     transition: .5s;
 }
@@ -4480,13 +4484,13 @@ span.right-reply i {
 }
 
 .style-two input:focus {
-    border-color: 1px solid #B725FF !important;
-    outline-color: #B725FF;
+    border-color: 1px solid #3BA4A6 !important;
+    outline-color: #3BA4A6;
 }
 
 .style-two textarea:focus {
-    border-color: 1px solid #B725FF !important;
-    outline-color: #B725FF;
+    border-color: 1px solid #3BA4A6 !important;
+    outline-color: #3BA4A6;
 }
 
 .contact-button2 button {
@@ -4495,7 +4499,7 @@ span.right-reply i {
     font-size: 18px;
     font-weight: 400;
     padding: 14px 36px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     border: 0;
     border-radius: 5px;
     margin-top: 20px;
@@ -4527,7 +4531,7 @@ span.right-reply i {
 .contact-button2 button:hover::before {
     transform: scale(1, 1);
     opacity: 1;
-    background: linear-gradient(to right, #B725FF 35%, #518EFF 88%);
+    background: linear-gradient(to right, #3BA4A6 35%, #518EFF 88%);
     color: #fff;
 }
 
@@ -4571,7 +4575,7 @@ h4.explore-search-title {
     font-size: 16px;
     font-weight: 600;
     transition: .5s;
-    background: linear-gradient(to right, #B725FF 7%, #518EFF 59%, #fff 50%);
+    background: linear-gradient(to right, #3BA4A6 7%, #518EFF 59%, #fff 50%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     background-size: 200%, 100%;
@@ -4699,7 +4703,7 @@ li.dreamit-bottom {
 
 /*-- ===============//contact section start here \\=================*/
 .contact-section {
-    background: #120F28;
+    background: #000817;
 }
 
 .style-three .widget-sidebar-title h2 {
@@ -4754,7 +4758,7 @@ li.dreamit-bottom {
     font-size: 16px;
     font-weight: 500;
     padding: 15px 36px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     border: 0;
     border-radius: 8px;
     margin-top: 20px;
@@ -4780,7 +4784,7 @@ li.dreamit-bottom {
 .contact-button button:hover::before {
     transform: scale(1, 1);
     opacity: 1;
-    background: linear-gradient(to right, #B725FF 35%, #518EFF 88%);
+    background: linear-gradient(to right, #3BA4A6 35%, #518EFF 88%);
     color: #fff;
 }
 
@@ -4902,7 +4906,7 @@ li.dreamit-bottom {
     right: 0;
     top: 0;
     bottom: 0;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     border-radius: 30px;
     transform: scale(0);
     transition: .5s;
@@ -4942,7 +4946,7 @@ a.owner-icon2 i {
     font-size: 18px;
     font-weight: 500;
     padding: 14px 33px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     border: 0;
     border-radius: 8px;
     margin-top: 20px;
@@ -4968,7 +4972,7 @@ a.owner-icon2 i {
 .contact-items button:hover::before {
     transform: scale(1, 1);
     opacity: 1;
-    background: linear-gradient(to right, #B725FF 35%, #518EFF 88%);
+    background: linear-gradient(to right, #3BA4A6 35%, #518EFF 88%);
     color: #fff;
 }
 
@@ -5123,7 +5127,7 @@ p.item-text {
     right: 0;
     top: 0;
     bottom: 0;
-    background: linear-gradient(to right, #518EFF 1%, #B725FF 96%);
+    background: linear-gradient(to right, #518EFF 1%, #3BA4A6 96%);
     border-radius: 30px;
     transform: scale(0);
     transition: .5s;
@@ -5227,7 +5231,7 @@ p.item-text {
 }
 
 .accordion-tab [type=radio]:checked~label {
-    background: linear-gradient(to right, #518EFF 1%, #B725FF 96%);
+    background: linear-gradient(to right, #518EFF 1%, #3BA4A6 96%);
     color: #fff;
     border-radius: 30px;
 }
@@ -5309,7 +5313,7 @@ p.item-text {
     background-color: #528DFF;
     width: 70px;
     cursor: pointer;
-    border-bottom: 3px solid #B725FF;
+    border-bottom: 3px solid #3BA4A6;
     -webkit-transition: all 500ms ease;
     height: 70px;
     line-height: 70px;
@@ -5407,7 +5411,7 @@ p.item-text {
     width: 96%;
     cursor: pointer;
     margin-top: 30px;
-    background: linear-gradient(to right, #518EFF 1%, #B725FF 96%);
+    background: linear-gradient(to right, #518EFF 1%, #3BA4A6 96%);
     position: relative;
     z-index: 1;
 }
@@ -5420,7 +5424,7 @@ p.item-text {
     width: 0;
     top: 0;
     height: 100%;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     border-radius: 5px;
     transition: .5s;
 }
@@ -5495,7 +5499,7 @@ span.flaticon-multiply i {
 /*place bid button */
 .place-bid-button a {
     padding: 12px 32px;
-    background: linear-gradient(to right, #518EFF 1%, #B725FF 96%);
+    background: linear-gradient(to right, #518EFF 1%, #3BA4A6 96%);
     color: #fff;
     width: 100%;
     display: inline-block;
@@ -5788,14 +5792,14 @@ span.flaticon-multiply i {
     border-radius: 8px;
     z-index: -1;
     transition: 0.5s;
-    border: 1px solid #B725FF;
+    border: 1px solid #3BA4A6;
     transform: scale(0.0, 1);
     opacity: 0;
 }
 
 a.sign-button2 {
     margin-left: 44px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     border: 0;
     position: relative;
     z-index: 1;
@@ -5807,7 +5811,7 @@ a.sign-button2 {
 }
 
 .item-thumb-button a:hover {
-    border: 1px solid #B725FF;
+    border: 1px solid #3BA4A6;
 }
 
 a.sign-button2:hover {
@@ -5868,7 +5872,7 @@ label {
     font-size: 18px;
     font-weight: 500;
     padding: 16px 33px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     border: 0;
     border-radius: 8px;
     margin-top: 20px;
@@ -5912,7 +5916,7 @@ label {
     color: #fff;
     border-radius: 5px;
     padding: 14px 34px;
-    background: linear-gradient(to right, #518EFF 35%, #B725FF 88%);
+    background: linear-gradient(to right, #518EFF 35%, #3BA4A6 88%);
     position: relative;
     z-index: 1;
 }
@@ -5925,7 +5929,7 @@ label {
     width: 0;
     top: 0;
     height: 100%;
-    background: linear-gradient(to right, #B725FF 28%, #518EFF 78%);
+    background: linear-gradient(to right, #3BA4A6 28%, #518EFF 78%);
     border-radius: 5px;
     transition: .5s;
 }
@@ -5944,7 +5948,7 @@ label {
 .wallet-icon i {
     display: inline-block;
     font-size: 24px;
-    color: #B725FF;
+    color: #3BA4A6;
 }
 
 .wallet-bottom-text p {
@@ -5954,7 +5958,7 @@ label {
 
 .wallet-bottom-text p i {
     display: inline-block;
-    color: #B725FF;
+    color: #3BA4A6;
     font-size: 25px;
     padding-right: 10px;
 }
@@ -6564,7 +6568,7 @@ a.paginate_button {
     height: 100%;
     z-index: -1;
     background-image: -moz-linear-gradient(0deg, #d1651a 0%, #c1282a 100%);
-    background-image: linear-gradient(to right, #B725FF 0%, #B725FF 100%);
+    background-image: linear-gradient(to right, #3BA4A6 0%, #3BA4A6 100%);
     background-image: -ms-linear-gradient(0deg, #d1651a 0%, #c1282a 100%);
     opacity: 0;
     visibility: hidden;
@@ -6654,7 +6658,7 @@ a.paginate_button {
     animation: ripple 1.6s ease-out infinite;
     opacity: 0;
     background-image: -moz-linear-gradient(0deg, #69DDCC 0%, #69DDCC 100%);
-    background-image: -webkit-linear-gradient(0deg, #B725FF 0%, #B725FF 100%);
+    background-image: -webkit-linear-gradient(0deg, #3BA4A6 0%, #3BA4A6 100%);
     background-image: -ms-linear-gradient(0deg, #69DDCC 0%, #69DDCC 100%);
     border-radius: 100%;
 }
@@ -6869,7 +6873,7 @@ div#particles .row.version3 {
 }
 
 .text-glow {
-    background: linear-gradient(to right, #518EFF, #518EFF, 50%, #B725FF 75%);
+    background: linear-gradient(to right, #518EFF, #518EFF, 50%, #3BA4A6 75%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }

@@ -27,7 +27,7 @@ var createScene = function () {
     new BABYLON.Vector3(1, 1, 0),
     scene
   );
-  light.intensity = 2;
+  light.intensity = 3;
 
   var camera = new BABYLON.ArcRotateCamera(
     "cam1",
@@ -73,8 +73,8 @@ var createScene = function () {
   // pbr2.reflectionTexture = BABYLON.CubeTexture.CreateFromPrefilteredData("/textures/environment.dds", scene);
   // pbr2.reflectionTexture = hdrTexture;
 
-  pbr2.metallic = 0.3;
-  pbr2.roughness = 0.6;
+  pbr2.metallic = 0.6;
+  pbr2.roughness = 0.3;
   // pbr2.albedoColor = new BABYLON.Color3(0.56, 0, 1);
   pbr2.albedoColor = new BABYLON.Color3.Teal();
   pbr2.subSurface.isTranslucencyEnabled = true;
